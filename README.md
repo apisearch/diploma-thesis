@@ -1,2 +1,1 @@
-# diploma-thesis
-Text of my diploma thesis written in LaTex
+Everything is in my private repo => https://github.com/ludekvesely/diploma-thesis
